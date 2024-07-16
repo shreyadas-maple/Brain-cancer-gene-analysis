@@ -27,5 +27,9 @@ For a more in-depth step-by-step procedure of Microarraying, check out this vide
 (https://www.youtube.com/watch?v=NgRfc6atXQ8)
 
 # What are Differential Gene Expression Profiles?
+This is a high-throughput method of measuring the activity or expression of many genes at all by quantifying the transcription of these genes. If a gene is upregulated, usually this is represented by high transcription output (however, sometimes this isn't true since there are many other post-transcriptional factors that control the expression level of genes). 
+
+With differential gene expression analysis, you can generate profiles where specific genes have similar expression patterns. We can further classify these profiles into different biochemical pathways or functions (e.g., cell division, metabolism, cell death/apoptosis).
+
 
 
