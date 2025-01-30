@@ -35,5 +35,6 @@ This can aid with finding potential treatments that are more targetted for the s
 
 Additionally, with understanding which genes are upregulated in specific cancer profiles, can help with prediction of risks in offspring and family members. This becomes important such that specific lifestyle habits can make certain sceptible individuals at less risk of getting diagnosed with cancer later in their life. One thing to remember is that "just because you have the genes that have been upregulated in specific cancers, **doesn't mean that you will get cancer**". Cancer is a complex disease that involves genetics and environment; this is why we try to understand further the cases of cancer that do occur to help with the future population.
 
+# Data Analysis
 
 
